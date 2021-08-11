@@ -1,0 +1,77 @@
+*{
+	font-family: 'Kanit', sans-serif;
+}
+body{
+	background: #512DA8;
+}
+.container{
+	background: #673AB7;
+	border-radius: 20px;
+	padding: 5px;
+}
+.error{
+	background: red;
+	text-align: center;
+	border: 3px solid black;
+	margin: auto;
+	width: 48.5%;
+	padding: 5px;
+	border-radius: 10px;
+}
+.sub-cards{
+	border: 2px solid black;
+	background: #D1C4E9;
+	text-align: center;
+	border-radius: 10px;
+	padding: 5px;
+}
+
+.title{
+	color: #FFFFFF;
+	text-align: center;
+}
+
+.cards{
+	border: 2px solid #BDBDBD;
+	background: #FFFFFF;
+	padding: 10px;
+	border-radius: 10px;
+}
+
+.cards-title{
+color: #212121;
+text-align: center;
+border: 3px solid black;
+margin: auto;
+width: 48.5%;
+padding: 5px;
+border-radius: 10px;
+}
+
+.cards-text{
+color: #757575;
+text-align: center;
+border: 3px solid black;
+margin: auto;
+width: 48.5%;
+padding: 5px;
+border-radius: 10px;
+}
+
+.publicar{
+background: #FFC107;
+border: none;
+margin: auto;
+padding: 5px;
+transform: translateX(575px);
+border-radius: 5px;
+}
+
+.clear{
+background: #FFC107;
+border: none;
+margin: auto;
+padding: 5px;
+transform: translateX(575px);
+border-radius: 5px;
+}
